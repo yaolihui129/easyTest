@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<catalog>
+    <scene description="脚本执行顺序为子标签排列顺序" schemeId="">
+        <testCase enabled="True" paramPath="" scriptId=""></testCase>
+    </scene>
+</catalog>

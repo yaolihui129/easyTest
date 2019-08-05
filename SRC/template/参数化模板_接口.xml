@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<scene>
+    <testCase>
+        <testClass name="EasyCase" description=''>
+            <param id="projectClass" description="项目名称(udh)">udh</param>
+            <param id="url" description="待测试的接口"></param>
+            <param id="method" description="请求方式（GET、POST）">GET</param>
+            <param id="dataType" description="数据类型(NULL,STRING,JSON)">JSON</param>
+            <param id="data" description="接收的数据参数">{'':''}</param>
+            <param id="expectType" description="预期返回的类型(STRING,JSON,XML)"></param>
+            <param id="expect" description="预期返回的数据"></param>
+            <param id="auth_user" description="auth用户名"></param>
+            <param id="auth_pwd" description="auth密码"></param>
+        </testClass>
+    </testCase>
+</scene>
